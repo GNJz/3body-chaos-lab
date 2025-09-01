@@ -1,0 +1,17 @@
+{
+  "run_id": "20250829T115126Z-4820cd60",
+  "generated_at_utc": "2025-08-29T11:51:26.620174+00:00",
+  "params": {
+    "DT": 0.001,
+    "T_END": 1.0,
+    "TAU": 0.02,
+    "V_TH_BASE": 1.0,
+    "I_CONST": 1.1,
+    "ALPHAS": [
+      0.9
+    ],
+    "REFRACT_MS": 2.0,
+    "OUTDIR": "/Users/jazzin/Documents/QiG/data/run_2025_08_29_215125/alpha_0.9",
+    "SEED": 7
+  }
+}
