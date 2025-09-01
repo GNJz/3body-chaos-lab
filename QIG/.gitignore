@@ -1,0 +1,17 @@
+# Caches / temp
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Data (run artifacts)
+data/*.csv
+!data/config.json
+!data/metadata.json
+
+# Logs
+logs/*.logfigures/run_*/
+figures/runs/*
+data/run_*/
+data/runs/*
+__pycache__/
+.pytest_cache/
