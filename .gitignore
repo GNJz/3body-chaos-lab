@@ -11,3 +11,9 @@ figures/
 
 .DS_Store
 threebody_outputs_20250901_1902/
+
+# heavy outputs
+threebody_outputs_*/
+animation/
+*.zip
+*.mp4
